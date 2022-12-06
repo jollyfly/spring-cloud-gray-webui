@@ -13,7 +13,7 @@
     "core-js": "^2.6.9",
     "element-ui": "^2.9.1",
     "localforage": "^1.7.3",
-    "qs": "^6.7.0",
+    "qs": "^6.7.3",
     "vue": "^2.6.10",
     "vue-class-component": "^7.1.0",
     "vue-property-decorator": "^8.1.1",
